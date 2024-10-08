@@ -42,5 +42,17 @@
             
           
 </div>
+<h2>📪 Contact me</h2>
+<p>
+<a target="_blank" href="www.linkedin.com/in/dhruvdeveloper" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+</a>
+
+<a target="_blank" href="https://www.instagram.com/katil_dhruv679/profilecard/?igsh=MTZwbmZtbzZtdW1uaA==" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+</a>
+
+</p>
+
 
 ###
