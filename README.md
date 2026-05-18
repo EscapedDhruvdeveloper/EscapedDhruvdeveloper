@@ -22,8 +22,27 @@ I'm on a journey to master **Full Stack development** and love building clean, s
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,go,js,ts,html,css,mysql,graphql,linux,docker,git,github,vscode&theme=dark&perline=8" />
+
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+
 </div>
 
 
