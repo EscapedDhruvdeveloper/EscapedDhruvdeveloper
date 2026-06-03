@@ -22,8 +22,6 @@ I'm on a journey to master **Full Stack development** and love building clean, s
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
