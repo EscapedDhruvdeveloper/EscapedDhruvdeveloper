@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Dhruv%20Dave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Enthusiast%20%7C%20India&descColor=e2e8f0&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Dhruv%20Dave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20%7C%20India&descColor=e2e8f0&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+What's+up%3F;Full+Stack+Developer;React+%7C+Next.js+%7C+Spring+Boot;Golang+%7C+GraphQL+%7C+WebSockets;Linux+Lover+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Dhruv+Dave;Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Go+%7C+PostgreSQL+%7C+Microservices;Building+Scalable+Software+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -10,13 +10,18 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Dhruv Dave** — a web enthusiast from India 🇮🇳  
-I'm on a journey to master **Full Stack development** and love building clean, scalable, and interactive web apps.
+Hi, I'm **Dhruv Dave** — a **Software Development Engineer** from India 🇮🇳
 
-- 🔭 Currently working with **Java, Spring Boot, Nextjs, React, Postgresql**
-- 🌱 Learning **WebRTC, Golang, GraphQL, WebSockets**
-- 🐧 Using **Linux** for daily development
-- 🌐 Check out my work at **[www.dhruvdave.dev](https://www.dhruvdave.dev)**
+I build and contribute to production-grade web applications, working across frontend, backend, databases, and cloud infrastructure. I enjoy solving real-world engineering problems and building scalable, reliable, and maintainable software.
+
+- 💼 Working professionally as a **Software Development Engineer**
+- 💻 Working with **Java, Spring Boot, React, Next.js, Go, and PostgreSQL**
+- ⚙️ Interested in **System Design, Microservices, and Clean Architecture**
+- 🚀 Focused on **scalable applications, backend engineering, and API performance**
+- 🤖 Exploring and building with **RAG, Agentic AI, and AI-powered systems**
+- ☁️ Working with **cloud-native technologies and containerized applications**
+- 🐧 Using **Linux** as my daily development environment
+- 🌐 Explore my work at **[dhruvdave.dev](https://www.dhruvdave.dev)**
 
 ---
 
