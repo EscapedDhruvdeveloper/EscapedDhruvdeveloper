@@ -54,9 +54,9 @@ I'm on a journey to master **Full Stack development** and love building clean, s
   <a href="https://x.com/theescapeddev" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruvdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/dhruvdeveloper" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+</a>
   <a href="https://www.instagram.com/katil_dhruv679" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
