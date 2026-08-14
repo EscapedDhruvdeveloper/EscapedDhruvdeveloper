@@ -56,7 +56,7 @@ I build and contribute to production-grade web applications, working across fron
   <a href="https://www.dhruvdave.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://x.com/theescapeddev" target="_blank">
+  <a href="https://x.com/heyitzdhruv" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 <a href="https://www.linkedin.com/in/dhruvdeveloper" target="_blank">
