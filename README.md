@@ -62,7 +62,7 @@ I build and contribute to production-grade web applications, working across fron
 <a href="https://www.linkedin.com/in/dhruvdeveloper" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
 </a>
-  <a href="https://www.instagram.com/katil_dhruv679" target="_blank">
+  <a href="https://www.instagram.com/dhruv.cinephile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
