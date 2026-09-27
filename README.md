@@ -21,7 +21,7 @@ I build and contribute to production-grade web applications, working across fron
 - 🤖 Exploring and building with **RAG, Agentic AI, and AI-powered systems**
 - ☁️ Working with **cloud-native technologies and containerized applications**
 - 🐧 Using **Linux** as my daily development environment
-- 🌐 Explore my work at **[dhruvdave.dev](https://www.dhruvdave.dev)**
+- 🌐 Explore my work at **[dhruvdave.site](https://www.dhruvdave.site)**
 
 ---
 
@@ -53,7 +53,7 @@ I build and contribute to production-grade web applications, working across fron
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.dhruvdave.dev" target="_blank">
+  <a href="https://www.dhruvdave.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://x.com/heyitzdhruv" target="_blank">
